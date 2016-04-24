@@ -7,5 +7,4 @@ curl https://raw.githubusercontent.com/wisonlin/dribble_cache/master/data/popula
 
 git add .
 git commit -m 'update popular'
-git push
 
