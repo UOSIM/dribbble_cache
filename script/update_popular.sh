@@ -5,6 +5,6 @@ curl 'https://api.dribbble.com/v1/shots?sort=&access_token=6146bef0c11604a7d27f6
 
 # commit to github
 
-git add .
+git add ..
 git commit -m 'update popular'
 
