@@ -1,6 +1,6 @@
 
 
-while sleep 1
+while sleep 60
 do
 	./update_popular.sh
 	git push
